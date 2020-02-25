@@ -1,0 +1,9 @@
+name: dart_event_sourcing
+description: dart_event_sourcing
+version: '1.0.0'
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+dependencies:
+  logging: ^0.11.4
+dev_dependencies:
+  test: '^1.12.0'
