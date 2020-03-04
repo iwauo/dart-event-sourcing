@@ -1,0 +1,3 @@
+class CommandHandler {
+  const CommandHandler();
+}
